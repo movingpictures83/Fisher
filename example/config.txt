@@ -1,0 +1,2 @@
+Prefix plugins/Fisher/example
+Plugin Fisher inputfile parameters.txt outputfile fisher
